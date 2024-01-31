@@ -33,6 +33,16 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
       "It contains the Basic details of a Developer, what are all the projects done, experience and also the contact details.",
     PortfolioGithub: "https://github.com/vijayanand1505/vijay-portfolio",
     PortfolioWebsite: "https://vijayanandthangavel.netlify.app/",
+
+    CalenderDesc:
+      "The Year 2023 is shown and also there are 5 different moods which can be selected for particular day, along with this there is a shuffle and reset button.",
+    CalenderGithub: "https://github.com/vijayanand1505/calender",
+    CalenderWebsite: "https://vijay-calender.netlify.app/",
+
+    ExpenseDesc:
+      "The Expense Details can be added based upon name, amount, date and it can be filtered by year wise.",
+    ExpenseGithub: "https://github.com/vijayanand1505/Expense-App",
+    ExpenseWebsite: "https://vijay-expense.netlify.app/",
   };
 
   let show = "";
