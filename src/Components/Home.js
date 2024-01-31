@@ -33,8 +33,8 @@ const Home = () => {
             <br />
             <br />I am fluent in <b>C++</b> and know a bit of <b>Python</b> and
             am working on a few projects in the <b>MERN</b> stack.
-            <br />I plan to learn <b>Next.js</b>, <b>Three.js</b> and
-            <b> Typescript</b> in the near future. <br />
+            <br />I am planning to learn <b>Next.js</b>, <b>Three.js</b> and
+            <b> Typescript</b> in future. <br />
             <br />
             Also, I love <b>coffee</b>{" "}
             <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
