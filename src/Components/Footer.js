@@ -4,7 +4,7 @@ import { GrMail } from "react-icons/gr";
 import { BsInstagram } from "react-icons/bs";
 
 const Footer = () => {
-  return (
+  return ( 
     <footer>
       <h4>Developed by Vijay Anand</h4>
       <h4>Copyright &copy; {new Date().getFullYear()} VJ</h4>
